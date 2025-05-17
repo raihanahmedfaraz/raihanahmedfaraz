@@ -50,10 +50,10 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
   <!-- Row 1 -->
   <tr>
     <td align="center" width="260">
-      <a href="https://nervana.reformcollective.com" target="_blank">
-        <img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" width="250" style="border-radius:8px;" alt="Legal Shield"/>
+      <a href="https://inspirux.com" target="_blank">
+        <img src="https://streamable.com/7rp2gh" width="250" style="border-radius:8px;" alt="React three Mouse Interaction"/>
       </a><br/>
-      <b style="color:white;">Nervana Health Website - React</b>
+      <b style="color:white;">React three Mouse Interaction</b>
     </td>
     <td align="center" width="260">
       <a href="https://inspirux.com" target="_blank">
