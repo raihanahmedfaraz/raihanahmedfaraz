@@ -56,10 +56,10 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
       <b style="color:white;">React three Mouse Interaction</b>
     </td>
     <td align="center" width="260">
-      <a href="https://inspirux.com" target="_blank">
-        <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" width="250" style="border-radius:8px;" alt="WordStream"/>
+      <a href="https://eleatcereal.com" target="_blank">
+        <img src="https://iili.io/36xcBrQ.md.png" width="250" style="border-radius:8px;" alt="Eleat Cereal"/>
       </a><br/>
-      <b style="color:white;">React three Mouse Interaction - React</b>
+      <b style="color:white;">React Eleat Cereal</b>
     </td>
     <td align="center" width="260">
       <a href="https://your-project-3.com" target="_blank">
