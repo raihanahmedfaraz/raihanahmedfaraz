@@ -45,43 +45,45 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 
 ---
 
-### 💻 Featured Projects
+### <img src="https://img.icons8.com/ios-filled/25/000000/laptop.png" alt="Featured" style="vertical-align: middle;" /> Featured Projects
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://inspirux.com" target="_blank">
         <img src="https://iili.io/36xz65G.png" alt="Mouse Interaction" style="max-width: 100%; height: auto; border-radius: 8px;" />
       </a><br/>
       <b style="color:white;">Mouse Interaction</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://eleatcereal.com" target="_blank">
         <img src="https://iili.io/36xcBrQ.md.png" alt="Eleat Cereal" style="max-width: 100%; height: auto; border-radius: 8px;" />
       </a><br/>
       <b style="color:white;">Eleat Cereal</b>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://www.vapesuperstore.co.uk" target="_blank">
         <img src="https://iili.io/36xXGuR.png" alt="Vape Superstore" style="max-width: 100%; height: auto; border-radius: 8px;" />
       </a><br/>
       <b style="color:white;">Vape Superstore</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://whitehallvineyard.co.uk" target="_blank">
         <img src="https://iili.io/36xeTua.png" alt="Whitehall Vineyard" style="max-width: 100%; height: auto; border-radius: 8px;" />
       </a><br/>
       <b style="color:white;">Whitehall Vineyard</b>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://bundlee.co.uk" target="_blank">
         <img src="https://iili.io/36xrv1f.md.png" alt="Bundlee Baby" style="max-width: 100%; height: auto; border-radius: 8px;" />
       </a><br/>
       <b style="color:white;">Bundlee Baby</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://www.illegalpetes.com" target="_blank">
         <img src="https://iili.io/36xshV1.png" alt="Illegal Pete's" style="max-width: 100%; height: auto; border-radius: 8px;" />
       </a><br/>
