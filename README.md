@@ -54,6 +54,23 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 [![I Tried 5 Programming Languages So You Don’t Have To](https://ytcards.demolab.com/?id=7OPLE0cF8JU&title=I+Tried+5+Programming+Languages+So+You+Don%E2%80%99t+Have+To&lang=en&timestamp=1744902011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398 "I Tried 5 Programming Languages So You Don’t Have To")](https://www.youtube.com/watch?v=7OPLE0cF8JU)
 <!-- END YOUTUBE-CARDS -->
 
+
+### 🧠 My Portfolio Projects
+
+<!-- BEGIN PORTFOLIO-CARDS -->
+[![Legal Shield](https://img.shields.io/badge/LegalShield-Legal%20Help%20Platform-blueviolet?style=for-the-badge)](#)
+[![WordStream](https://img.shields.io/badge/WordStream-Digital%20Marketing%20Tools-ff69b4?style=for-the-badge)](#)
+[![Bause Biowein](https://img.shields.io/badge/Bause%20Biowein-Organic%20Wine%20Store-green?style=for-the-badge)](#)
+[![AWMA](https://img.shields.io/badge/AWMA-Women%20in%20Music%20Events-blue?style=for-the-badge)](#)
+[![YMCA](https://img.shields.io/badge/YMCA-Social%20Empowerment-orange?style=for-the-badge)](#)
+[![Freethink](https://img.shields.io/badge/Freethink-Digital%20Storytelling-lightgrey?style=for-the-badge)](#)
+[![ENABLOO](https://img.shields.io/badge/ENABLOO-Business%20Automation-cyan?style=for-the-badge)](#)
+[![ERITA](https://img.shields.io/badge/ERITA-Fashion%20Tech-purple?style=for-the-badge)](#)
+[![be beau](https://img.shields.io/badge/be%20beau-Beauty%20Commerce-pink?style=for-the-badge)](#)
+[![Tonal](https://img.shields.io/badge/Tonal-Product%20Design-lightblue?style=for-the-badge)](#)
+<!-- END PORTFOLIO-CARDS -->
+
+
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
