@@ -55,56 +55,24 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 <!-- END YOUTUBE-CARDS -->
 
 
-### 💼 Featured Projects
+<h3>💼 Featured Projects</h3>
 
-<table>
-  <tr>
-    <td align="center">
-     <a href="https://your-live-project-link.com" target="_blank">
-      <img src="https://raihanahmed.info/wp-content/uploads/2024/11/479_1x_shots_so.png" width="250" /><br/>
-       <b>Legal Shield</b><br/>
-       <sub>Legal help platform for individuals & businesses.</sub>
-   </a>
-    </td>
-    <td align="center">
-      <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/300x170.png?text=WordStream" width="250" /><br/>
-        <b>WordStream</b><br/>
-        <sub>Digital tools to grow and market businesses.</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/300x170.png?text=Bause+Biowein" width="250" /><br/>
-        <b>Bause Biowein</b><br/>
-        <sub>Organic wine eCommerce platform.</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/300x170.png?text=AWMA" width="250" /><br/>
-        <b>AWMA</b><br/>
-        <sub>Event site for Australian Women in Music Awards.</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/300x170.png?text=YMCA" width="250" /><br/>
-        <b>YMCA</b><br/>
-        <sub>Inclusive community development platform.</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/300x170.png?text=Freethink" width="250" /><br/>
-        <b>Freethink</b><br/>
-        <sub>Creative storytelling web platform.</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <a href="https://your-live-link.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://raihanahmed.info/wp-content/uploads/2024/11/479_1x_shots_so.png" width="250" style="border-radius: 6px; margin: 5px;" alt="Legal Shield"/><br/>
+    <span style="color: white; font-weight: bold;">Legal Shield</span>
+  </a>
+  
+  <a href="https://your-project-2.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://via.placeholder.com/300x170.png?text=WordStream" width="250" style="border-radius: 6px; margin: 5px;" alt="WordStream"/><br/>
+    <span style="color: white; font-weight: bold;">WordStream</span>
+  </a>
+
+  <a href="https://your-project-3.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://via.placeholder.com/300x170.png?text=AWMA" width="250" style="border-radius: 6px; margin: 5px;" alt="AWMA"/><br/>
+    <span style="color: white; font-weight: bold;">AWMA</span>
+  </a>
+</div>
 
 
 
