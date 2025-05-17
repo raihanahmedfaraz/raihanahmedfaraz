@@ -47,62 +47,60 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 ### 💼 Featured Projects
 
 <table>
-  <!-- Row 1 -->
   <tr>
-    <td align="center" width="260">
-      <a href="https://nervana.reformcollective.com" target="_blank">
-        <img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" width="250" style="border-radius:8px;" alt="Legal Shield"/>
+    <td align="center" width="260" style="padding: 10px;">
+      <a href="https://nervana.reformcollective.com" target="_blank" style="text-decoration:none;">
+        <img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" width="250" style="border-radius:8px;" alt="Nervana Health"/>
       </a><br/>
-      <b style="color:white; display: block; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
         Nervana Health Website - React
-      </b>
+      </div>
     </td>
-    <td align="center" width="260">
-      <a href="https://inspirux.com" target="_blank">
-        <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" width="250" style="border-radius:8px;" alt="WordStream"/>
+    <td align="center" width="260" style="padding: 10px;">
+      <a href="https://inspirux.com" target="_blank" style="text-decoration:none;">
+        <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" width="250" style="border-radius:8px;" alt="React Mouse Interaction"/>
       </a><br/>
-      <b style="color:white; display: block; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
         React three Mouse Interaction - React
-      </b>
+      </div>
     </td>
-    <td align="center" width="260">
-      <a href="https://your-project-3.com" target="_blank">
+    <td align="center" width="260" style="padding: 10px;">
+      <a href="https://your-project-3.com" target="_blank" style="text-decoration:none;">
         <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:8px;" alt="AWMA"/>
       </a><br/>
-      <b style="color:white; display: block; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
         AWMA
-      </b>
+      </div>
     </td>
   </tr>
-
-  <!-- Row 2 -->
   <tr>
-    <td align="center" width="260">
-      <a href="https://your-project-4.com" target="_blank">
+    <td align="center" width="260" style="padding: 10px;">
+      <a href="https://your-project-4.com" target="_blank" style="text-decoration:none;">
         <img src="https://raihanahmed.info/wp-content/uploads/2024/11/308_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 4"/>
       </a><br/>
-      <b style="color:white; display: block; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
         Project 4
-      </b>
+      </div>
     </td>
-    <td align="center" width="260">
-      <a href="https://your-project-5.com" target="_blank">
+    <td align="center" width="260" style="padding: 10px;">
+      <a href="https://your-project-5.com" target="_blank" style="text-decoration:none;">
         <img src="https://raihanahmed.info/wp-content/uploads/2024/11/347_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 5"/>
       </a><br/>
-      <b style="color:white; display: block; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
         Project 5
-      </b>
+      </div>
     </td>
-    <td align="center" width="260">
-      <a href="https://your-project-6.com" target="_blank">
+    <td align="center" width="260" style="padding: 10px;">
+      <a href="https://your-project-6.com" target="_blank" style="text-decoration:none;">
         <img src="https://raihanahmed.info/wp-content/uploads/2024/11/793_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 6"/>
       </a><br/>
-      <b style="color:white; display: block; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
         Project 6
-      </b>
+      </div>
     </td>
   </tr>
 </table>
+
 
 
 
