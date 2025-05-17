@@ -2,6 +2,8 @@
 
 **`Turning Code Into Conversions`**
 
+https://media.licdn.com/dms/image/v2/D5616AQF10tFmugBqZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738724357614?e=1752710400&v=beta&t=bE2gfD9-S1IQui_NMKduExxYi77t4tRFg0Iez86aXeQ
+
 I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-driven entrepreneur. I help businesses grow their online presence, boost sales, and build powerful digital solutions from the ground up. From websites and eCommerce platforms to SEO and strategy, I turn ideas into scalable systems that deliver real results. Every project I take on is focused on performance, branding, and impact — because that’s what drives success.
 
 <p align="left">
