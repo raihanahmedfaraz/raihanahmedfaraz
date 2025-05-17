@@ -2,7 +2,7 @@
 
 **`Turning Code Into Conversions`**
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF10tFmugBqZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738724357614?e=1752710400&v=beta&t=bE2gfD9-S1IQui_NMKduExxYi77t4tRFg0Iez86aXeQ" alt="Background" style="border: 3px solid #000; border-radius: 8px; max-width: 100%; height: auto;" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQF10tFmugBqZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738724357614?e=1752710400&v=beta&t=bE2gfD9-S1IQui_NMKduExxYi77t4tRFg0Iez86aXeQ" alt="Background" style="border: 3px solid #000; border-radius: 8px;" />
 
 I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-driven entrepreneur. I help businesses grow their online presence, boost sales, and build powerful digital solutions from the ground up. From websites and eCommerce platforms to SEO and strategy, I turn ideas into scalable systems that deliver real results. Every project I take on is focused on performance, branding, and impact — because that’s what drives success.
 
@@ -43,51 +43,56 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
 
----
+#
 
-### <img src="https://img.icons8.com/ios-filled/25/000000/laptop.png" alt="Featured" style="vertical-align: middle;" /> Featured Projects
+
+### 💻 Featured Projects
 
 <table>
+  <!-- Row 1 -->
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="260">
       <a href="https://inspirux.com" target="_blank">
-        <img src="https://iili.io/36xz65G.png" alt="Mouse Interaction" style="max-width: 100%; height: auto; border-radius: 8px;" />
+        <img src="https://iili.io/36xz65G.png" width="250" style="border-radius:8px;" alt="Mouse Interaction"/>
       </a><br/>
       <b style="color:white;">Mouse Interaction</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="260">
       <a href="https://eleatcereal.com" target="_blank">
-        <img src="https://iili.io/36xcBrQ.md.png" alt="Eleat Cereal" style="max-width: 100%; height: auto; border-radius: 8px;" />
+        <img src="https://iili.io/36xcBrQ.md.png" width="250" style="border-radius:8px;" alt="Eleat Cereal"/>
       </a><br/>
       <b style="color:white;">Eleat Cereal</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="260">
       <a href="https://www.vapesuperstore.co.uk" target="_blank">
-        <img src="https://iili.io/36xXGuR.png" alt="Vape Superstore" style="max-width: 100%; height: auto; border-radius: 8px;" />
+        <img src="https://iili.io/36xXGuR.png" width="250" style="border-radius:8px;" alt="Vape Superstore"/>
       </a><br/>
       <b style="color:white;">Vape Superstore</b>
     </td>
   </tr>
+
+  <!-- Row 2 -->
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="260">
       <a href="https://whitehallvineyard.co.uk" target="_blank">
-        <img src="https://iili.io/36xeTua.png" alt="Whitehall Vineyard" style="max-width: 100%; height: auto; border-radius: 8px;" />
+        <img src="https://iili.io/36xeTua.png" width="250" style="border-radius:8px;" alt="Whitehall Vineyard"/>
       </a><br/>
       <b style="color:white;">Whitehall Vineyard</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="260">
       <a href="https://bundlee.co.uk" target="_blank">
-        <img src="https://iili.io/36xrv1f.md.png" alt="Bundlee Baby" style="max-width: 100%; height: auto; border-radius: 8px;" />
+        <img src="https://iili.io/36xrv1f.md.png" width="250" style="border-radius:8px;" alt="Bundlee Baby"/>
       </a><br/>
       <b style="color:white;">Bundlee Baby</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="260">
       <a href="https://www.illegalpetes.com" target="_blank">
-        <img src="https://iili.io/36xshV1.png" alt="Illegal Pete's" style="max-width: 100%; height: auto; border-radius: 8px;" />
+        <img src="https://iili.io/36xshV1.png" width="250" style="border-radius:8px;" alt="Illegal Pete's"/>
       </a><br/>
       <b style="color:white;">Illegal Pete's</b>
     </td>
   </tr>
 </table>
+
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raihanahmedfaraz/)
