@@ -46,60 +46,51 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 
 ### 💼 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="260" style="padding: 10px;">
-      <a href="https://nervana.reformcollective.com" target="_blank" style="text-decoration:none;">
-        <img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" width="250" style="border-radius:8px;" alt="Nervana Health"/>
-      </a><br/>
-      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
-        Nervana Health Website - React
-      </div>
-    </td>
-    <td align="center" width="260" style="padding: 10px;">
-      <a href="https://inspirux.com" target="_blank" style="text-decoration:none;">
-        <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" width="250" style="border-radius:8px;" alt="React Mouse Interaction"/>
-      </a><br/>
-      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
-        React three Mouse Interaction - React
-      </div>
-    </td>
-    <td align="center" width="260" style="padding: 10px;">
-      <a href="https://your-project-3.com" target="_blank" style="text-decoration:none;">
-        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:8px;" alt="AWMA"/>
-      </a><br/>
-      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
-        AWMA
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="260" style="padding: 10px;">
-      <a href="https://your-project-4.com" target="_blank" style="text-decoration:none;">
-        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/308_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 4"/>
-      </a><br/>
-      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
-        Project 4
-      </div>
-    </td>
-    <td align="center" width="260" style="padding: 10px;">
-      <a href="https://your-project-5.com" target="_blank" style="text-decoration:none;">
-        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/347_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 5"/>
-      </a><br/>
-      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
-        Project 5
-      </div>
-    </td>
-    <td align="center" width="260" style="padding: 10px;">
-      <a href="https://your-project-6.com" target="_blank" style="text-decoration:none;">
-        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/793_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 6"/>
-      </a><br/>
-      <div style="color:white; font-weight:bold; width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 5px;">
-        Project 6
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<a href="https://nervana.reformcollective.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
+  <img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" alt="Nervana Health" style="width: 250px; border-radius: 8px;"/>
+  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    Nervana Health Website - React
+  </div>
+</a>
+
+<a href="https://inspirux.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
+  <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" alt="React Mouse Interaction" style="width: 250px; border-radius: 8px;"/>
+  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    React three Mouse Interaction - React
+  </div>
+</a>
+
+<a href="https://your-project-3.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
+  <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" alt="AWMA" style="width: 250px; border-radius: 8px;"/>
+  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    AWMA
+  </div>
+</a>
+
+<a href="https://your-project-4.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
+  <img src="https://raihanahmed.info/wp-content/uploads/2024/11/308_1x_shots_so.png" alt="Project 4" style="width: 250px; border-radius: 8px;"/>
+  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    Project 4
+  </div>
+</a>
+
+<a href="https://your-project-5.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
+  <img src="https://raihanahmed.info/wp-content/uploads/2024/11/347_1x_shots_so.png" alt="Project 5" style="width: 250px; border-radius: 8px;"/>
+  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    Project 5
+  </div>
+</a>
+
+<a href="https://your-project-6.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
+  <img src="https://raihanahmed.info/wp-content/uploads/2024/11/793_1x_shots_so.png" alt="Project 6" style="width: 250px; border-radius: 8px;"/>
+  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    Project 6
+  </div>
+</a>
+
+</div>
 
 
 
