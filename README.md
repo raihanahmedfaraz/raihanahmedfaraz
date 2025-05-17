@@ -84,7 +84,7 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
   <tr>
     <td align="center" width="260">
       <a href="https://your-project-4.com" target="_blank">
-        <img src="https://via.placeholder.com/250x150.png?text=Project+4" width="250" style="border-radius:8px;" alt="Project 4"/>
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/308_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 4"/>
       </a><br/>
       <b style="color:white;">Project 4</b>
     </td>
