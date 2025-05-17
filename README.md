@@ -90,13 +90,13 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
     </td>
     <td align="center" width="260">
       <a href="https://your-project-5.com" target="_blank">
-        <img src="https://via.placeholder.com/250x150.png?text=Project+5" width="250" style="border-radius:8px;" alt="Project 5"/>
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/347_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 5"/>
       </a><br/>
       <b style="color:white;">Project 5</b>
     </td>
     <td align="center" width="260">
       <a href="https://your-project-6.com" target="_blank">
-        <img src="https://via.placeholder.com/250x150.png?text=Project+6" width="250" style="border-radius:8px;" alt="Project 6"/>
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/793_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 6"/>
       </a><br/>
       <b style="color:white;">Project 6</b>
     </td>
