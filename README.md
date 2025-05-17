@@ -93,4 +93,4 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 </table>
 
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raihanahmed)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raihanahmedfaraz/)
