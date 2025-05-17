@@ -55,20 +55,57 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 <!-- END YOUTUBE-CARDS -->
 
 
-### 🧠 My Portfolio Projects
+### 💼 Featured Projects
 
-<!-- BEGIN PORTFOLIO-CARDS -->
-[![Legal Shield](https://img.shields.io/badge/LegalShield-Legal%20Help%20Platform-blueviolet?style=for-the-badge)](#)
-[![WordStream](https://img.shields.io/badge/WordStream-Digital%20Marketing%20Tools-ff69b4?style=for-the-badge)](#)
-[![Bause Biowein](https://img.shields.io/badge/Bause%20Biowein-Organic%20Wine%20Store-green?style=for-the-badge)](#)
-[![AWMA](https://img.shields.io/badge/AWMA-Women%20in%20Music%20Events-blue?style=for-the-badge)](#)
-[![YMCA](https://img.shields.io/badge/YMCA-Social%20Empowerment-orange?style=for-the-badge)](#)
-[![Freethink](https://img.shields.io/badge/Freethink-Digital%20Storytelling-lightgrey?style=for-the-badge)](#)
-[![ENABLOO](https://img.shields.io/badge/ENABLOO-Business%20Automation-cyan?style=for-the-badge)](#)
-[![ERITA](https://img.shields.io/badge/ERITA-Fashion%20Tech-purple?style=for-the-badge)](#)
-[![be beau](https://img.shields.io/badge/be%20beau-Beauty%20Commerce-pink?style=for-the-badge)](#)
-[![Tonal](https://img.shields.io/badge/Tonal-Product%20Design-lightblue?style=for-the-badge)](#)
-<!-- END PORTFOLIO-CARDS -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://your-live-project-link.com" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=Legal+Shield" width="250" /><br/>
+        <b>Legal Shield</b><br/>
+        <sub>Legal help platform for individuals & businesses.</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://your-project-link.com" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=WordStream" width="250" /><br/>
+        <b>WordStream</b><br/>
+        <sub>Digital tools to grow and market businesses.</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://your-project-link.com" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=Bause+Biowein" width="250" /><br/>
+        <b>Bause Biowein</b><br/>
+        <sub>Organic wine eCommerce platform.</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://your-project-link.com" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=AWMA" width="250" /><br/>
+        <b>AWMA</b><br/>
+        <sub>Event site for Australian Women in Music Awards.</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://your-project-link.com" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=YMCA" width="250" /><br/>
+        <b>YMCA</b><br/>
+        <sub>Inclusive community development platform.</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://your-project-link.com" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=Freethink" width="250" /><br/>
+        <b>Freethink</b><br/>
+        <sub>Creative storytelling web platform.</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
