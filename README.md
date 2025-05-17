@@ -60,11 +60,11 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 <table>
   <tr>
     <td align="center">
-      <a href="https://your-live-project-link.com" target="_blank">
-        <img src="<img src="https://raihanahmed.info/wp-content/uploads/2024/11/479_1x_shots_so.png" width="250" width="250" /><br/>
-        <b>Legal Shield</b><br/>
-        <sub>Legal help platform for individuals & businesses.</sub>
-      </a>
+     <a href="https://your-live-project-link.com" target="_blank">
+      <img src="https://raihanahmed.info/wp-content/uploads/2024/11/479_1x_shots_so.png" width="250" /><br/>
+       <b>Legal Shield</b><br/>
+       <sub>Legal help platform for individuals & businesses.</sub>
+   </a>
     </td>
     <td align="center">
       <a href="https://your-project-link.com" target="_blank">
