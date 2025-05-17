@@ -53,13 +53,13 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
       <a href="https://nervana.reformcollective.com" target="_blank">
         <img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" width="250" style="border-radius:8px;" alt="Legal Shield"/>
       </a><br/>
-      <b style="color:white;">Nervana Health - Embrace your health</b>
+      <b style="color:white;">Nervana Health Website - React</b>
     </td>
     <td align="center" width="260">
       <a href="https://inspirux.com" target="_blank">
         <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" width="250" style="border-radius:8px;" alt="WordStream"/>
       </a><br/>
-      <b style="color:white;">React three Mouse Interaction</b>
+      <b style="color:white;">React three Mouse Interaction - React</b>
     </td>
     <td align="center" width="260">
       <a href="https://your-project-3.com" target="_blank">
