@@ -106,7 +106,3 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 </div>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
