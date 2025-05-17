@@ -14,7 +14,7 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
   <a href="https://www.linkedin.com/in/raihanahmedfaraz/">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://raihanahmed.dev">
+  <a href="https://raihanahmed.info">
     <img alt="Website" title="Visit My Website" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-000?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
