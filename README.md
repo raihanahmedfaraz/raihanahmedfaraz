@@ -58,6 +58,7 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 ### 💼 Featured Projects
 
 <table>
+  <!-- Row 1 -->
   <tr>
     <td align="center" width="260">
       <a href="https://your-live-link.com" target="_blank">
@@ -76,6 +77,28 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
         <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:8px;" alt="AWMA"/>
       </a><br/>
       <b style="color:white;">AWMA</b>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="260">
+      <a href="https://your-project-4.com" target="_blank">
+        <img src="https://via.placeholder.com/250x150.png?text=Project+4" width="250" style="border-radius:8px;" alt="Project 4"/>
+      </a><br/>
+      <b style="color:white;">Project 4</b>
+    </td>
+    <td align="center" width="260">
+      <a href="https://your-project-5.com" target="_blank">
+        <img src="https://via.placeholder.com/250x150.png?text=Project+5" width="250" style="border-radius:8px;" alt="Project 5"/>
+      </a><br/>
+      <b style="color:white;">Project 5</b>
+    </td>
+    <td align="center" width="260">
+      <a href="https://your-project-6.com" target="_blank">
+        <img src="https://via.placeholder.com/250x150.png?text=Project+6" width="250" style="border-radius:8px;" alt="Project 6"/>
+      </a><br/>
+      <b style="color:white;">Project 6</b>
     </td>
   </tr>
 </table>
