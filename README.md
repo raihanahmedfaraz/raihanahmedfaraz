@@ -64,12 +64,12 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
   </a>
   
   <a href="https://your-project-2.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://via.placeholder.com/300x170.png?text=WordStream" width="250" style="border-radius: 6px; margin: 5px;" alt="WordStream"/><br/>
+    <img src="https://raihanahmed.info/wp-content/uploads/2024/11/38_1x_shots_so.png" width="250" style="border-radius: 6px; margin: 5px;" alt="WordStream"/><br/>
     <span style="color: white; font-weight: bold;">WordStream</span>
   </a>
 
   <a href="https://your-project-3.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://via.placeholder.com/300x170.png?text=AWMA" width="250" style="border-radius: 6px; margin: 5px;" alt="AWMA"/><br/>
+    <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius: 6px; margin: 5px;" alt="AWMA"/><br/>
     <span style="color: white; font-weight: bold;">AWMA</span>
   </a>
 </div>
