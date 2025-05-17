@@ -67,10 +67,10 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
       <b style="color:white;">Nervana Health</b>
     </td>
     <td align="center" width="260">
-      <a href="https://your-project-2.com" target="_blank">
-        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/38_1x_shots_so.png" width="250" style="border-radius:8px;" alt="WordStream"/>
+      <a href="https://inspirux.com" target="_blank">
+        <img src="https://assets.awwwards.com/awards/element/2024/09/66ea08c4b30f8081678263.mp4" width="250" style="border-radius:8px;" alt="WordStream"/>
       </a><br/>
-      <b style="color:white;">WordStream</b>
+      <b style="color:white;">React three Mouse Interaction</b>
     </td>
     <td align="center" width="260">
       <a href="https://your-project-3.com" target="_blank">
