@@ -46,51 +46,14 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 
 ### 💼 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+| [<img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" width="250" style="border-radius:8px;" alt="Nervana Health"/>](https://nervana.reformcollective.com) | [<img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" width="250" style="border-radius:8px;" alt="React Mouse Interaction"/>](https://inspirux.com) | [<img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:8px;" alt="AWMA"/>](https://your-project-3.com) |
+|---|---|---|
+| **[Nervana Health Website - React](https://nervana.reformcollective.com)** | **[React three Mouse Interaction - React](https://inspirux.com)** | **[AWMA](https://your-project-3.com)** |
 
-<a href="https://nervana.reformcollective.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
-  <img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" alt="Nervana Health" style="width: 250px; border-radius: 8px;"/>
-  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    Nervana Health Website - React
-  </div>
-</a>
+| [<img src="https://raihanahmed.info/wp-content/uploads/2024/11/308_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 4"/>](https://your-project-4.com) | [<img src="https://raihanahmed.info/wp-content/uploads/2024/11/347_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 5"/>](https://your-project-5.com) | [<img src="https://raihanahmed.info/wp-content/uploads/2024/11/793_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 6"/>](https://your-project-6.com) |
+|---|---|---|
+| **[Project 4](https://your-project-4.com)** | **[Project 5](https://your-project-5.com)** | **[Project 6](https://your-project-6.com)** |
 
-<a href="https://inspirux.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
-  <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" alt="React Mouse Interaction" style="width: 250px; border-radius: 8px;"/>
-  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    React three Mouse Interaction - React
-  </div>
-</a>
-
-<a href="https://your-project-3.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
-  <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" alt="AWMA" style="width: 250px; border-radius: 8px;"/>
-  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    AWMA
-  </div>
-</a>
-
-<a href="https://your-project-4.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
-  <img src="https://raihanahmed.info/wp-content/uploads/2024/11/308_1x_shots_so.png" alt="Project 4" style="width: 250px; border-radius: 8px;"/>
-  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    Project 4
-  </div>
-</a>
-
-<a href="https://your-project-5.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
-  <img src="https://raihanahmed.info/wp-content/uploads/2024/11/347_1x_shots_so.png" alt="Project 5" style="width: 250px; border-radius: 8px;"/>
-  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    Project 5
-  </div>
-</a>
-
-<a href="https://your-project-6.com" target="_blank" style="text-align: center; width: 250px; text-decoration: none; color: white;">
-  <img src="https://raihanahmed.info/wp-content/uploads/2024/11/793_1x_shots_so.png" alt="Project 6" style="width: 250px; border-radius: 8px;"/>
-  <div style="margin-top: 6px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    Project 6
-  </div>
-</a>
-
-</div>
 
 
 
