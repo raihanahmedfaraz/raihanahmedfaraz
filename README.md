@@ -44,72 +44,50 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 #
 
 
-### 💼 Featured Projects
+### 💻 Featured Projects
 
 <table>
+  <!-- Row 1 -->
   <tr>
-    <td align="center" width="260" style="padding:10px;">
-      <a href="https://nervana.reformcollective.com" target="_blank" style="text-decoration:none;">
-        <div style="width:250px; height:150px; overflow:hidden; border-radius:8px;">
-          <img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" alt="Nervana Health Website - React" style="width:250px; height:150px; object-fit:cover;" />
-        </div>
+    <td align="center" width="260">
+      <a href="https://nervana.reformcollective.com" target="_blank">
+        <img src="https://assets.awwwards.com/awards/submissions/2025/01/679acfb60ba40217910375.png" width="250" style="border-radius:8px;" alt="Legal Shield"/>
       </a><br/>
-      <b style="color:white; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 250px; display: inline-block; text-decoration:none;">
-        Nervana Health Website - React
-      </b>
+      <b style="color:white;">Nervana Health Website - React</b>
     </td>
-    <td align="center" width="260" style="padding:10px;">
-      <a href="https://inspirux.com" target="_blank" style="text-decoration:none;">
-        <div style="width:250px; height:150px; overflow:hidden; border-radius:8px;">
-          <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" alt="React three Mouse Interaction - React" style="width:250px; height:150px; object-fit:cover;" />
-        </div>
+    <td align="center" width="260">
+      <a href="https://inspirux.com" target="_blank">
+        <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" width="250" style="border-radius:8px;" alt="WordStream"/>
       </a><br/>
-      <b style="color:white; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 250px; display: inline-block; text-decoration:none;">
-        React three Mouse Interaction - React
-      </b>
+      <b style="color:white;">React three Mouse Interaction - React</b>
     </td>
-    <td align="center" width="260" style="padding:10px;">
-      <a href="https://your-project-3.com" target="_blank" style="text-decoration:none;">
-        <div style="width:250px; height:150px; overflow:hidden; border-radius:8px;">
-          <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" alt="AWMA" style="width:250px; height:150px; object-fit:cover;" />
-        </div>
+    <td align="center" width="260">
+      <a href="https://your-project-3.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:8px;" alt="AWMA"/>
       </a><br/>
-      <b style="color:white; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 250px; display: inline-block; text-decoration:none;">
-        AWMA
-      </b>
+      <b style="color:white;">AWMA</b>
     </td>
   </tr>
 
+  <!-- Row 2 -->
   <tr>
-    <td align="center" width="260" style="padding:10px;">
-      <a href="https://your-project-4.com" target="_blank" style="text-decoration:none;">
-        <div style="width:250px; height:150px; overflow:hidden; border-radius:8px;">
-          <img src="https://raihanahmed.info/wp-content/uploads/2024/11/308_1x_shots_so.png" alt="Project 4" style="width:250px; height:150px; object-fit:cover;" />
-        </div>
+    <td align="center" width="260">
+      <a href="https://your-project-4.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/308_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 4"/>
       </a><br/>
-      <b style="color:white; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 250px; display: inline-block; text-decoration:none;">
-        Project 4
-      </b>
+      <b style="color:white;">Project 4</b>
     </td>
-    <td align="center" width="260" style="padding:10px;">
-      <a href="https://your-project-5.com" target="_blank" style="text-decoration:none;">
-        <div style="width:250px; height:150px; overflow:hidden; border-radius:8px;">
-          <img src="https://raihanahmed.info/wp-content/uploads/2024/11/347_1x_shots_so.png" alt="Project 5" style="width:250px; height:150px; object-fit:cover;" />
-        </div>
+    <td align="center" width="260">
+      <a href="https://your-project-5.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/347_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 5"/>
       </a><br/>
-      <b style="color:white; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 250px; display: inline-block; text-decoration:none;">
-        Project 5
-      </b>
+      <b style="color:white;">Project 5</b>
     </td>
-    <td align="center" width="260" style="padding:10px;">
-      <a href="https://your-project-6.com" target="_blank" style="text-decoration:none;">
-        <div style="width:250px; height:150px; overflow:hidden; border-radius:8px;">
-          <img src="https://raihanahmed.info/wp-content/uploads/2024/11/793_1x_shots_so.png" alt="Project 6" style="width:250px; height:150px; object-fit:cover;" />
-        </div>
+    <td align="center" width="260">
+      <a href="https://your-project-6.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/793_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Project 6"/>
       </a><br/>
-      <b style="color:white; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 250px; display: inline-block; text-decoration:none;">
-        Project 6
-      </b>
+      <b style="color:white;">Project 6</b>
     </td>
   </tr>
 </table>
