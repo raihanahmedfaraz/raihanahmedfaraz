@@ -51,7 +51,7 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
   <tr>
     <td align="center" width="260">
       <a href="https://inspirux.com" target="_blank">
-        <img src="https://streamable.com/7rp2gh?src=player-page-share" width="250" style="border-radius:8px;" alt="React three Mouse Interaction"/>
+        <img src="https://jmp.sh/s/5uqDYZTGqEHXgyWyx13K" width="250" style="border-radius:8px;" alt="React three Mouse Interaction"/>
       </a><br/>
       <b style="color:white;">React three Mouse Interaction</b>
     </td>
