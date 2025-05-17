@@ -1,8 +1,8 @@
 # Raihan Ahmed
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Turning Code Into Conversions`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-driven entrepreneur. I help businesses grow their online presence, boost sales, and build powerful digital solutions from the ground up. From websites and eCommerce platforms to SEO and strategy, I turn ideas into scalable systems that deliver real results. Every project I take on is focused on performance, branding, and impact — because that’s what drives success.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
