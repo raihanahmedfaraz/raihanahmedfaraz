@@ -98,12 +98,6 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raihanahmedfaraz/)
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
