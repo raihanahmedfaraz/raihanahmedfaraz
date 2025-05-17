@@ -81,6 +81,28 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 </table>
 
 
+### 💼 Featured Projects
+
+<p align="center">
+
+  <a href="https://your-live-link.com" target="_blank" style="display:inline-block; margin: 10px; text-align:center;">
+    <img src="https://raihanahmed.info/wp-content/uploads/2024/11/479_1x_shots_so.png" width="250" style="border-radius:10px;" alt="Legal Shield"/><br/>
+    <strong>Legal Shield</strong>
+  </a>
+
+  <a href="https://your-project-2.com" target="_blank" style="display:inline-block; margin: 10px; text-align:center;">
+    <img src="https://raihanahmed.info/wp-content/uploads/2024/11/38_1x_shots_so.png" width="250" style="border-radius:10px;" alt="WordStream"/><br/>
+    <strong>WordStream</strong>
+  </a>
+
+  <a href="https://your-project-3.com" target="_blank" style="display:inline-block; margin: 10px; text-align:center;">
+    <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:10px;" alt="AWMA"/><br/>
+    <strong>AWMA</strong>
+  </a>
+
+</p>
+
+
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
