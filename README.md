@@ -57,23 +57,28 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 
 <h3>💼 Featured Projects</h3>
 
-<div align="center">
-  <a href="https://your-live-link.com" target="_blank" style="display:inline-block; margin: 10px; text-decoration: none;">
-    <img src="https://raihanahmed.info/wp-content/uploads/2024/11/479_1x_shots_so.png" width="250" style="border-radius: 8px;"><br>
-    <span style="display: inline-block; color: white; font-weight: bold; margin-top: 5px;">Legal Shield</span>
-  </a>
-
-  <a href="https://your-project-2.com" target="_blank" style="display:inline-block; margin: 10px; text-decoration: none;">
-    <img src="https://raihanahmed.info/wp-content/uploads/2024/11/38_1x_shots_so.png" width="250" style="border-radius: 8px;"><br>
-    <span style="display: inline-block; color: white; font-weight: bold; margin-top: 5px;">WordStream</span>
-  </a>
-
-  <a href="https://your-project-3.com" target="_blank" style="display:inline-block; margin: 10px; text-decoration: none;">
-    <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius: 8px;"><br>
-    <span style="display: inline-block; color: white; font-weight: bold; margin-top: 5px;">AWMA</span>
-  </a>
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="260">
+      <a href="https://your-live-link.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/479_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Legal Shield"/><br/>
+        <strong style="color:white; font-weight: bold;">Legal Shield</strong>
+      </a>
+    </td>
+    <td align="center" width="260">
+      <a href="https://your-project-2.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/38_1x_shots_so.png" width="250" style="border-radius:8px;" alt="WordStream"/><br/>
+        <strong style="color:white; font-weight: bold;">WordStream</strong>
+      </a>
+    </td>
+    <td align="center" width="260">
+      <a href="https://your-project-3.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:8px;" alt="AWMA"/><br/>
+        <strong style="color:white; font-weight: bold;">AWMA</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
