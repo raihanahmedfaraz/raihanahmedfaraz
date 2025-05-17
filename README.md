@@ -1,4 +1,4 @@
-# <style="color:purple">RA - Raihan Ahmed
+# <span style="color:purple">RA </span> Raihan Ahmed
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
