@@ -43,17 +43,6 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 
 #
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![why so many javascript frameworks](https://ytcards.demolab.com/?id=gNta-P4Vf7Q&title=why+so+many+javascript+frameworks&lang=en&timestamp=1747162837&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=509 "why so many javascript frameworks")](https://www.youtube.com/watch?v=gNta-P4Vf7Q)
-[![Netflix is Built on Java](https://ytcards.demolab.com/?id=sMPMiy0NsUs&title=Netflix+is+Built+on+Java&lang=en&timestamp=1746795687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=813 "Netflix is Built on Java")](https://www.youtube.com/watch?v=sMPMiy0NsUs)
-[![Linux officially won.](https://ytcards.demolab.com/?id=AOs_iA1wJcM&title=Linux+officially+won.&lang=en&timestamp=1745959930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3036 "Linux officially won.")](https://www.youtube.com/watch?v=AOs_iA1wJcM)
-[![Why You Never Finish Your Programming Projects](https://ytcards.demolab.com/?id=KIi0FOP9Qe4&title=Why+You+Never+Finish+Your+Programming+Projects&lang=en&timestamp=1745850613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=649 "Why You Never Finish Your Programming Projects")](https://www.youtube.com/watch?v=KIi0FOP9Qe4)
-[![OpenAI ACTUALLY made something open source.](https://ytcards.demolab.com/?id=t3GQiZMLPUg&title=OpenAI+ACTUALLY+made+something+open+source.&lang=en&timestamp=1744928104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587 "OpenAI ACTUALLY made something open source.")](https://www.youtube.com/watch?v=t3GQiZMLPUg)
-[![I Tried 5 Programming Languages So You Don’t Have To](https://ytcards.demolab.com/?id=7OPLE0cF8JU&title=I+Tried+5+Programming+Languages+So+You+Don%E2%80%99t+Have+To&lang=en&timestamp=1744902011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398 "I Tried 5 Programming Languages So You Don’t Have To")](https://www.youtube.com/watch?v=7OPLE0cF8JU)
-<!-- END YOUTUBE-CARDS -->
-
 
 ### 💼 Featured Projects
 
