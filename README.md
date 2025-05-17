@@ -10,8 +10,6 @@
 
 I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-driven entrepreneur. I help businesses grow their online presence, boost sales, and build powerful digital solutions from the ground up. From websites and eCommerce platforms to SEO and strategy, I turn ideas into scalable systems that deliver real results. Every project I take on is focused on performance, branding, and impact — because that’s what drives success.
 
----
-
 <p align="left">
   <a href="https://github.com/raihanahmedfaraz?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/raihanahmedfaraz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
