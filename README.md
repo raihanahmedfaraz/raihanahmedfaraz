@@ -44,7 +44,7 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 #
 
 
-### 💼 Featured Projects
+### 💻 Featured Projects
 
 <table>
   <!-- Row 1 -->
