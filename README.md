@@ -51,21 +51,21 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
   <tr>
     <td align="center" width="260">
       <a href="https://inspirux.com" target="_blank">
-        <img src="https://iili.io/36xz65G.png" width="250" style="border-radius:8px;" alt="React three Mouse Interaction"/>
+        <img src="https://iili.io/36xz65G.png" width="250" style="border-radius:8px;" alt="Mouse Interaction"/>
       </a><br/>
-      <b style="color:white;">React three Mouse Interaction</b>
+      <b style="color:white;">Mouse Interaction</b>
     </td>
     <td align="center" width="260">
       <a href="https://eleatcereal.com" target="_blank">
         <img src="https://iili.io/36xcBrQ.md.png" width="250" style="border-radius:8px;" alt="Eleat Cereal"/>
       </a><br/>
-      <b style="color:white;">React Eleat Cereal</b>
+      <b style="color:white;">Eleat Cereal</b>
     </td>
     <td align="center" width="260">
-      <a href="https://your-project-3.com" target="_blank">
-        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:8px;" alt="AWMA"/>
+      <a href="https://www.vapesuperstore.co.uk" target="_blank">
+        <img src="https://iili.io/36xXGuR.png" width="250" style="border-radius:8px;" alt="Vape Superstore"/>
       </a><br/>
-      <b style="color:white;">AWMA</b>
+      <b style="color:white;">Vape Superstore</b>
     </td>
   </tr>
 
