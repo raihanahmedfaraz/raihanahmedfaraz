@@ -68,7 +68,7 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
     </td>
     <td align="center" width="260">
       <a href="https://inspirux.com" target="_blank">
-        <img src="https://assets.awwwards.com/awards/element/2024/09/66ea08c4b30f8081678263.mp4" width="250" style="border-radius:8px;" alt="WordStream"/>
+        <img src="https://s7.ezgif.com/tmp/ezgif-7bf3fc546d3ebe.gif" width="250" style="border-radius:8px;" alt="WordStream"/>
       </a><br/>
       <b style="color:white;">React three Mouse Interaction</b>
     </td>
