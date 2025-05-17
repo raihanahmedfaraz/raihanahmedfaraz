@@ -60,22 +60,22 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 <table>
   <tr>
     <td align="center" width="260">
-      <a href="https://your-live-link.com" target="_blank" style="color:white; font-weight:bold; text-decoration:none;">
-        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/479_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Legal Shield"/><br/>
-        Legal Shield
-      </a>
+      <a href="https://your-live-link.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/479_1x_shots_so.png" width="250" style="border-radius:8px;" alt="Legal Shield"/>
+      </a><br/>
+      <b style="color:white;">Legal Shield</b>
     </td>
     <td align="center" width="260">
-      <a href="https://your-project-2.com" target="_blank" style="color:white; font-weight:bold; text-decoration:none;">
-        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/38_1x_shots_so.png" width="250" style="border-radius:8px;" alt="WordStream"/><br/>
-        WordStream
-      </a>
+      <a href="https://your-project-2.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/38_1x_shots_so.png" width="250" style="border-radius:8px;" alt="WordStream"/>
+      </a><br/>
+      <b style="color:white;">WordStream</b>
     </td>
     <td align="center" width="260">
-      <a href="https://your-project-3.com" target="_blank" style="color:white; font-weight:bold; text-decoration:none;">
-        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:8px;" alt="AWMA"/><br/>
-        AWMA
-      </a>
+      <a href="https://your-project-3.com" target="_blank">
+        <img src="https://raihanahmed.info/wp-content/uploads/2024/11/76_1x_shots_so.png" width="250" style="border-radius:8px;" alt="AWMA"/>
+      </a><br/>
+      <b style="color:white;">AWMA</b>
     </td>
   </tr>
 </table>
