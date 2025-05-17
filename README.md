@@ -55,7 +55,7 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
 <!-- END YOUTUBE-CARDS -->
 
 
-<h3>💼 Featured Projects</h3>
+### 💼 Featured Projects
 
 <table>
   <tr>
@@ -79,8 +79,6 @@ I'm Raihan Ahmed — a full-stack web developer, digital marketer, and sales-dri
     </td>
   </tr>
 </table>
-
-
 
 
 
