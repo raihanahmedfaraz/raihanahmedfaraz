@@ -2,8 +2,6 @@
 
 **`Turning Code Into Conversions`**
 
-/*<img src="" alt="Background" style="border: 3px solid #000; border-radius: 8px; max-width: 100%; height: auto;" />*/
-
 ---
 
 ## 👋 About Me
