@@ -2,7 +2,7 @@
 
 **`Turning Code Into Conversions`**
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF10tFmugBqZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738724357614?e=1752710400&v=beta&t=bE2gfD9-S1IQui_NMKduExxYi77t4tRFg0Iez86aXeQ" alt="Background" style="border: 3px solid #000; border-radius: 8px; max-width: 100%; height: auto;" />
+<img src="" alt="Background" style="border: 3px solid #000; border-radius: 8px; max-width: 100%; height: auto;" />
 
 ---
 
